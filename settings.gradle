@@ -1,0 +1,4 @@
+rootProject.name = "DN_PLUGIN_DEMO"
+include ':app'
+include ':plugin_common'
+include ':taopiaopiao'
